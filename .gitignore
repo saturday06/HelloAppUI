@@ -1,0 +1,16 @@
+/.idea/
+/.vscode/
+/.vs/
+/Library/
+/Logs/
+/Temp/
+/UIElementsSchema/
+/UserSettings/
+/obj/
+/.vsconfig
+/*.csproj
+/*.sln
+/UpgradeLog.htm
+/mono_crash.*.json
+/BUILD/
+.DS_Store
